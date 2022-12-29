@@ -1,0 +1,82 @@
+{
+  "id": "1596921348491972608",
+  "user": {
+    "username": "TheJackBly",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1594859653988585472/z4ODW07N_400x400.jpg",
+    "name": "JACK BLY"
+  },
+  "thread": [
+    {
+      "id": "1596921348491972608",
+      "originalText": "I used to wash dishes for minimum wage.\n\nDid I complain about it? No.\n\nDid I petition to raise the minimum wage to $25? No.\n\nI skilled up and solved bigger problems than cleaning a dish.",
+      "lines": [
+        "I used to wash dishes for minimum wage.",
+        "",
+        "Did I complain about it? No.",
+        "",
+        "Did I petition to raise the minimum wage to $25? No.",
+        "",
+        "I skilled up and solved bigger problems than cleaning a dish."
+      ],
+      "linesForAudio": [
+        "I used to wash dishes for minimum wage.",
+        "",
+        "Did I complain about it? No.",
+        "",
+        "Did I petition to raise the minimum wage to $25? No.",
+        "",
+        "I skilled up and solved bigger problems than cleaning a dish."
+      ]
+    },
+    {
+      "id": "1597244108136906753",
+      "originalText": "P.S. Right now, I'm looking for 5 men who want to lose 20-40lbs in 90 days.\n\n(using my 80/20 eating method)\n\nDM me the word \"Body\" for details.\n\nClick below to DM me \"Body\" 👇\nhttps://t.co/IhTjnHalSG",
+      "lines": [
+        "P.S. Right now, I'm looking for 5 men who want to lose 20-40lbs in 90 days.",
+        "",
+        "(using my 80/20 eating method)",
+        "",
+        "DM me the word \"Body\" for details.",
+        "",
+        "Click below to DM me \"Body\" 👇"
+      ],
+      "linesForAudio": [
+        "P.S. Right now, I'm looking for 5 men who want to lose 20-40lbs in 90 days.",
+        "",
+        "(using my 80/20 eating method).",
+        "",
+        "DM me the word \"Body\" for details.",
+        "",
+        "Click below to DM me \"Body\"."
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 175,
+            "end": 198,
+            "url": "https://t.co/IhTjnHalSG",
+            "expanded_url": "https://twitter.com/messages/compose?recipient_id=1289257004796719104",
+            "display_url": "twitter.com/messages/compo…",
+            "status": 404,
+            "unwound_url": "https://twitter.com/messages/compose?recipient_id=1289257004796719104"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plug",
+      "originalText": "",
+      "lines": [
+        "Thanks for watching. If you enjoyed this.",
+        "Follow me on twitter @TheJackBly, links are in the description."
+      ],
+      "linesForAudio": [
+        "Thanks for watching. If you enjoyed this.",
+        "Follow me on twitter at TheJackBly, links are in the description."
+      ],
+      "entities": {
+        "urls": []
+      }
+    }
+  ]
+}

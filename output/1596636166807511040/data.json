@@ -1,0 +1,125 @@
+{
+  "id": "1596636166807511040",
+  "user": {
+    "username": "Gabepluguez",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597219445780389889/cKfGFFrw_400x400.jpg",
+    "name": "Gabe Pluguez"
+  },
+  "thread": [
+    {
+      "id": "1596636166807511040",
+      "originalText": "I hold back tears every time a man tells me “My wife is over weight too.”\n\nI’ve coached women. I’ve seen the pain in their eyes when they feel ugly. \n\nThe mirror scares them, and so does being naked in front of their husbands. \n\nMen, get healthy. \n\nDon’t make it harder on her.",
+      "lines": [
+        "I hold back tears every time a man tells me “My wife is over weight too.”",
+        "",
+        "I’ve coached women. I’ve seen the pain in their eyes when they feel ugly. ",
+        "",
+        "The mirror scares them, and so does being naked in front of their husbands. ",
+        "",
+        "Men, get healthy. ",
+        "",
+        "Don’t make it harder on her."
+      ],
+      "linesForAudio": [
+        "I hold back tears every time a man tells me “My wife is over weight too.”.",
+        "",
+        "I’ve coached women. I’ve seen the pain in their eyes when they feel ugly.",
+        "",
+        "The mirror scares them, and so does being naked in front of their husbands.",
+        "",
+        "Men, get healthy.",
+        "",
+        "Don’t make it harder on her."
+      ]
+    },
+    {
+      "id": "1596802363398017025",
+      "originalText": "P.S. Want my FREE Fat Loss Accelerator course?\n\nClick below 👇\nhttps://t.co/MjCepQFgIM",
+      "lines": [
+        "P.S. Want my FREE Fat Loss Accelerator course?",
+        "",
+        "Click below 👇"
+      ],
+      "linesForAudio": [
+        "P.S. Want my FREE Fat Loss Accelerator course?",
+        "",
+        "Click below."
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 62,
+            "end": 85,
+            "url": "https://t.co/MjCepQFgIM",
+            "expanded_url": "https://www.defaultkings.com/fla",
+            "display_url": "defaultkings.com/fla",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1595069800761507843/PwRVNgi6?format=png&name=orig",
+                "width": 1028,
+                "height": 1338
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1595069800761507843/PwRVNgi6?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Fat Loss Accelerator (FREE Course)",
+            "description": "Fat Loss Accelerator (FREE Course)",
+            "unwound_url": "https://www.defaultkings.com/fla-lead-magnet1666628670826"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 37,
+            "probability": 0.438,
+            "type": "Other",
+            "normalized_text": "Fat Loss Accelerator"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plug",
+      "originalText": "",
+      "lines": [
+        "Thanks for watching. If you enjoyed this.",
+        "Follow me on twitter @Gabepluguez, links are in the description."
+      ],
+      "linesForAudio": [
+        "Thanks for watching. If you enjoyed this.",
+        "Follow me on twitter at Gabepluguez, links are in the description."
+      ],
+      "entities": {
+        "urls": [
+          {
+            "start": 62,
+            "end": 85,
+            "url": "https://t.co/MjCepQFgIM",
+            "expanded_url": "https://www.defaultkings.com/fla",
+            "display_url": "defaultkings.com/fla",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1595069800761507843/PwRVNgi6?format=png&name=orig",
+                "width": 1028,
+                "height": 1338
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1595069800761507843/PwRVNgi6?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Fat Loss Accelerator (FREE Course)",
+            "description": "Fat Loss Accelerator (FREE Course)",
+            "unwound_url": "https://www.defaultkings.com/fla-lead-magnet1666628670826"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "1597236378185699335",
+  "user": {
+    "username": "MoneyAmplifier",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1595747126880911360/ekcdA8yq_400x400.jpg",
+    "name": "Johnny | Money Amplifier"
+  },
+  "thread": [
+    {
+      "id": "1597236378185699335",
+      "originalText": "You want money.\n\nLike literally 100% of the world.\n\nBut just like them, you're not doing anything.\n\nGo back to playing Fortnite.\n\nMaybe you'll get rich doing that.",
+      "lines": [
+        "You want money.",
+        "",
+        "Like literally 100% of the world.",
+        "",
+        "But just like them, you're not doing anything.",
+        "",
+        "Go back to playing Fortnite.",
+        "",
+        "Maybe you'll get rich doing that."
+      ],
+      "linesForAudio": [
+        "You want money.",
+        "",
+        "Like literally 100% of the world.",
+        "",
+        "But just like them, you're not doing anything.",
+        "",
+        "Go back to playing Fortnite.",
+        "",
+        "Maybe you'll get rich doing that."
+      ],
+      "entities": {
+        "annotations": [
+          {
+            "start": 119,
+            "end": 126,
+            "probability": 0.9907,
+            "type": "Other",
+            "normalized_text": "Fortnite"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plug",
+      "originalText": "",
+      "lines": [
+        "Thanks for watching. If you enjoyed this.",
+        "Follow me on twitter @MoneyAmplifier, links are in the description."
+      ],
+      "linesForAudio": [
+        "Thanks for watching. If you enjoyed this.",
+        "Follow me on twitter at MoneyAmplifier, links are in the description."
+      ],
+      "entities": {
+        "urls": []
+      }
+    }
+  ]
+}

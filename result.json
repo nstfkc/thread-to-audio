@@ -1,0 +1,316 @@
+{
+  "user": {
+    "data": {
+      "id": "1450424698853072897",
+      "name": "Alex Mathers",
+      "username": "Alexmathers84"
+    }
+  },
+  "mainTweet": {
+    "data": {
+      "author_id": "1450424698853072897",
+      "text": "7 ways to be insanely productive that no one is talking about:",
+      "conversation_id": "1596141726606848000",
+      "edit_history_tweet_ids": [
+        "1596141726606848000"
+      ],
+      "id": "1596141726606848000"
+    }
+  },
+  "thread": {
+    "data": [
+      {
+        "created_at": "2022-11-25T14:00:27.000Z",
+        "text": "Thank you.\n\nI keep getting messages from you thanking me for this free gift:\n\n'The 12 Habits of Mentally Strong People'\n\nYours free today for a SHORT time, when you subscribe to my newsletter:\n\nhttps://t.co/bZlGyK1Q0j\n\nPlease click below + retweet this tweet: https://t.co/2TdSZY5fh1",
+        "entities": {
+          "urls": [
+            {
+              "start": 194,
+              "end": 217,
+              "url": "https://t.co/bZlGyK1Q0j",
+              "expanded_url": "https://untetheredmind.substack.com",
+              "display_url": "untetheredmind.substack.com",
+              "images": [
+                {
+                  "url": "https://pbs.twimg.com/news_img/1595054691112701958/yg0Onqgb?format=jpg&name=orig",
+                  "width": 1008,
+                  "height": 528
+                },
+                {
+                  "url": "https://pbs.twimg.com/news_img/1595054691112701958/yg0Onqgb?format=jpg&name=150x150",
+                  "width": 150,
+                  "height": 150
+                }
+              ],
+              "status": 200,
+              "title": "Untethered Mind by Alex Mathers",
+              "description": "The newsletter to help free you from your mental limits, grow more confident, make more money, and enjoy freedom. Receive regular, enlivening ideas on mindset, psychology, money mindset, spirituality, productivity, business mindset, energy management. Click to read Untethered Mind by Alex Mathers, a Substack publication with tens of thousands of readers.",
+              "unwound_url": "https://untetheredmind.substack.com"
+            },
+            {
+              "start": 260,
+              "end": 283,
+              "url": "https://t.co/2TdSZY5fh1",
+              "expanded_url": "https://twitter.com/Alexmathers84/status/1596141726606848000",
+              "display_url": "twitter.com/Alexmathers84/…"
+            }
+          ]
+        },
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141771364438016",
+        "edit_history_tweet_ids": [
+          "1596141771364438016"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:27.000Z",
+        "text": "RECAP / 2\n\n7 ways to be insanely productive that no one is talking about:\n\n5. Outsource work you don’t need to do\n6. Spend more time in the same place\n7. Enjoy the pain.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141768952623104",
+        "edit_history_tweet_ids": [
+          "1596141768952623104"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:26.000Z",
+        "text": "RECAP\n\n7 ways to be insanely productive that no one is talking about:\n\n1. Stop trying to be disciplined\n2. Honour your natural rhythm\n3. Don’t set goals without assigning a system\n4. Regularly shake stress out of your hips",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141766830592000",
+        "edit_history_tweet_ids": [
+          "1596141766830592000"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:26.000Z",
+        "text": "Because on the other side of discomfort and even pain is opportunity in the form of insane physical reserves and outer-worldly creative potential. \n\nIf you can find a strange love for pain, you will do more. \n\nYou will become a maniac that others can only watch in awe.\n\n🔆",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141764423094272",
+        "edit_history_tweet_ids": [
+          "1596141764423094272"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:25.000Z",
+        "text": "7. Enjoy the pain.\n\nMany of us are overly obsessed with feelings. \n\nWe need to be in the ideal mood to do things. \n\n‘It’s important for our creativity,’ we say. \n\nBut this mindset is blocking your potential. How come?",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141761768062976",
+        "edit_history_tweet_ids": [
+          "1596141761768062976"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:24.000Z",
+        "text": "I don’t leave the scene. \n\nI stay there with butt firmly planted on seat.\n\nI take some breaks to stretch, but if I stay in the same place, I’m more likely to produce more.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141759028871168",
+        "edit_history_tweet_ids": [
+          "1596141759028871168"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:24.000Z",
+        "text": "6. Spend more time in the same place.\n\nIf we keep changing our environment, we diminish our attention to any one thing. \n\nWhen I write, and especially if I’m in a good productive flow, I keep going if I can.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141756847751168",
+        "edit_history_tweet_ids": [
+          "1596141756847751168"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:23.000Z",
+        "text": "If you’re spending time on tedious tasks, what else could you do that is higher leverage, given your talents? \n\nUse Upwork or Fiverr and pay others to create more time. \n\nProductivity isn’t about how busy you are. \n\nIt’s about the results you produce under your management.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141754243170306",
+        "entities": {
+          "annotations": [
+            {
+              "start": 126,
+              "end": 131,
+              "probability": 0.6261,
+              "type": "Other",
+              "normalized_text": "Fiverr"
+            }
+          ]
+        },
+        "edit_history_tweet_ids": [
+          "1596141754243170306"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:23.000Z",
+        "text": "5. Outsource work you don’t need to do.\n\nMost will never subcontract jobs because they are too precious about how they want the work done, or they can’t understand valuing their time as money spent.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141752188125195",
+        "edit_history_tweet_ids": [
+          "1596141752188125195"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:22.000Z",
+        "text": "Instead of crying to mummy, they throw on some dubstep and gyrate like a crazed ape on amphetamines. \n\nThey unlock their hips and can’t help breaking into a massive grin at the sense of relief and boundless creativity that rewards them.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141750061604872",
+        "entities": {
+          "annotations": [
+            {
+              "start": 87,
+              "end": 98,
+              "probability": 0.7058,
+              "type": "Other",
+              "normalized_text": "amphetamines"
+            }
+          ]
+        },
+        "edit_history_tweet_ids": [
+          "1596141750061604872"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:22.000Z",
+        "text": "4. Regularly shake stress out of your hips.\n\nMuch of our accumulated stresses and concerns are not actually floating around in our heads. \n\nThinking this makes us insecure and run off in search of a therapist. \n\nThe true productive Gs have a dirty little secret.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141747931058180",
+        "edit_history_tweet_ids": [
+          "1596141747931058180"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:21.000Z",
+        "text": "This would look like writing 2000 words per day from 10am to 12pm without distraction using the Pomodoro technique with an accountability partner. \n\nAnything is possible with the correct system attached.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141745875685380",
+        "entities": {
+          "annotations": [
+            {
+              "start": 96,
+              "end": 103,
+              "probability": 0.8434,
+              "type": "Other",
+              "normalized_text": "Pomodoro"
+            }
+          ]
+        },
+        "edit_history_tweet_ids": [
+          "1596141745875685380"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:21.000Z",
+        "text": "If I genuinely want to commit to a goal becoming a reality, I always assign a system to that goal. \n\nIf your goal doesn’t have a system, you will not achieve that goal. \n\nIf I want to write and complete a book, I design a system for its creation.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141743078281216",
+        "edit_history_tweet_ids": [
+          "1596141743078281216"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:20.000Z",
+        "text": "3. Don’t set goals without assigning a system.\n\nWriting out my goals is an invigorating process. \n\nMore than anything, it keeps my attention on the exciting things that are possible in my life.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141740662132739",
+        "edit_history_tweet_ids": [
+          "1596141740662132739"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:19.000Z",
+        "text": "But if you tend to work better in the evenings, forget Nathan, the life coach, this time and do what comes with less forcing.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141738485288961",
+        "entities": {
+          "annotations": [
+            {
+              "start": 55,
+              "end": 60,
+              "probability": 0.7296,
+              "type": "Person",
+              "normalized_text": "Nathan"
+            }
+          ]
+        },
+        "edit_history_tweet_ids": [
+          "1596141738485288961"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:19.000Z",
+        "text": "2. Honour your natural rhythm.\n\nForget the gurus, and listen to what works for your body. \n\nThis becomes clearer to you when you live healthier, though, so don’t come to rely too heavily on your overly stimulated body as an indicator of what’s best.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141736207609857",
+        "edit_history_tweet_ids": [
+          "1596141736207609857"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:18.000Z",
+        "text": "Write one message to a potential client. \n\nDo what you need to do, but take a tiny action.\n\nThis will lead to an accumulation of actions, and people will wonder how you’ve become so ‘disciplined.’",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141733922107392",
+        "edit_history_tweet_ids": [
+          "1596141733922107392"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:18.000Z",
+        "text": "Instead of trying to improve, just focus on the next, easy step. \n\nThat’s all you need to do. Make it super easy. \n\nWrite a line. \n\nPut on your running shoes.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141731514286084",
+        "edit_history_tweet_ids": [
+          "1596141731514286084"
+        ]
+      },
+      {
+        "created_at": "2022-11-25T14:00:17.000Z",
+        "text": "1. Stop trying to be disciplined.\n\nWe can often berate ourselves for being lazy. \n\nWe’re frustrated when we continually procrastinate. \n\nBut it’s not that we lack discipline. \n\nWe apply so much pressure to perform that we overwhelm ourselves.",
+        "author_id": "1450424698853072897",
+        "conversation_id": "1596141726606848000",
+        "in_reply_to_user_id": "1450424698853072897",
+        "id": "1596141729337741312",
+        "edit_history_tweet_ids": [
+          "1596141729337741312"
+        ]
+      }
+    ],
+    "meta": {
+      "newest_id": "1596141771364438016",
+      "oldest_id": "1596141729337741312",
+      "result_count": 19
+    }
+  }
+}
